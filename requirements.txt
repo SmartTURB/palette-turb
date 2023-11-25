@@ -1,0 +1,10 @@
+numpy
+pandas
+tqdm
+tensorboardX>=1.14
+scipy 
+opencv-python
+clean-fid
+h5py
+matplotlib
+jupyter
